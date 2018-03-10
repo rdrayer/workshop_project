@@ -1,0 +1,22 @@
+h1 {
+  color: white;
+}
+
+body {
+  font-family: system-ui;
+  background-color: #3E5765;
+}
+
+.list-item {
+  font-family: system-ui;
+}
+
+#css-item {
+    color: #5179ba;
+}
+
+#goal-list {
+  border-style: solid;
+  border-color: #5179ba;
+  width: 30%;
+}
